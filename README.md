@@ -1,11 +1,13 @@
 ## 👋 Hello, I'm Rahul Balasubramani!
 I'm an enthusiastic master's student with a keen interest in leveraging data and technology to solve complex problems. My journey in tech has been fueled by a passion for Machine Learning, Data Science, and creating impactful solutions.
 
-🚀 My Journey So Far
+##🚀 My Journey So Far
+
 - Currently pursuing a Master's in Information Management at the University of Illinois, Urbana-Champaign, with a focus on data science and information systems.
 - Previously worked as a Junior ML Engineer at Augray, where I optimized machine learning models for real-time applications, improved large-scale data preprocessing, and enhanced system scalability and response efficiency in Conversational AI projects.
 
-🛠 Technical Arsenal
+##🛠 Technical Arsenal
+
 I’ve honed my skills across various technologies:
 - Programming: C, C++, Python (Frameworks: NumPy, Pandas, Keras, TensorFlow, PyTorch, Scikit-learn, OpenCV, Pillow, Matplotlib, Seaborn), NLP, Machine learning, and algorithms.
 - Tools: Git, GitHub, Docker, MS Office.
@@ -13,7 +15,8 @@ I’ve honed my skills across various technologies:
 - Database Technologies: SQL (MySQL), MongoDB.
 - Data Visualization: Tableau, Power BI.
 
-💼 Professional Experience
+##💼 Professional Experience
+
 I’ve gained hands-on experience through diverse roles:
 - Data Preprocessing & Feature Engineering: Conducted extensive data preprocessing, cleaning, and feature engineering on datasets up to 10TB, improving data quality by 20% and enhancing model performance.
 - Machine Learning Model Optimization: Implemented and optimized MIDAS U-Net and MobileNet-v2 models, leading to significant improvements in application performance and 3D visualization using the Open 3D framework.
