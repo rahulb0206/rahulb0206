@@ -1,9 +1,9 @@
-# Hi, I am Rahul!
+# Hey, I am Rahul. Glad you found your way to my little corner here!!
 
 ## About Me
-I'm an enthusiastic master's student with a keen interest in leveraging data and technology to solve complex problems. My journey in tech has been fueled by a passion for Machine Learning, Data Science, and creating impactful solutions.
+An enthusiastic master's student with a keen interest in leveraging data and technology to solve complex problems. My journey in tech has been fueled by a passion for Machine Learning, Data Science, and creating impactful solutions.
 
-I thrive on the intersection of technology and creativity, constantly seeking opportunities to innovate and solve real-world problems. My journey has taken me from developing real-time machine learning models to exploring new frontiers in artificial intelligence, and I’m excited to share my work with you.
+I thrive on the intersection of technology and creativity, constantly seeking opportunities to innovate and solve real-world problems. My journey has taken me from developing real-time machine learning models to exploring new frontiers in artificial intelligence, and I am excited to share my work with you.
 
 ## My Journey So Far
 
@@ -13,9 +13,9 @@ I thrive on the intersection of technology and creativity, constantly seeking op
 ## Technical Arsenal
 
 I’ve honed my skills across various technologies:
-- Programming: C, C++, Python (Frameworks: NumPy, Pandas, Keras, TensorFlow, PyTorch, Scikit-learn, OpenCV, Pillow, Matplotlib, Seaborn), NLP, Machine learning, and algorithms.
+- Programming: C, C++, Python (Frameworks: NumPy, Pandas, Keras, TensorFlow, PyTorch, Scikit-learn, OpenCV, Pillow, Matplotlib, Seaborn), NLP, Machine learning.
 - Tools: Git, GitHub, Docker, MS Office.
-- Cloud Services: Amazon Web Services (AWS Certified Cloud Practitioner), Microsoft Azure.
+- Cloud Services: Amazon Web Services (AWS Certified Cloud Practitioner).
 - Database Technologies: SQL (MySQL), MongoDB.
 - Data Visualization: Tableau, Power BI.
 
