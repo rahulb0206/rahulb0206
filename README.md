@@ -1,53 +1,69 @@
 # Hey, I am Rahul. Glad you found your way to my little corner here!!
 
 ## About Me
-An enthusiastic master's student with a keen interest in leveraging data and technology to solve complex problems. My journey in tech has been fueled by a passion for Machine Learning, Data Science, and creating impactful solutions.
 
-I thrive on the intersection of technology and creativity, constantly seeking opportunities to innovate and solve real-world problems. My journey has taken me from developing real-time machine learning models to exploring new frontiers in artificial intelligence, and I am excited to share my work with you.
+I build models that make consequential decisions in credit risk, fraud detection, and clinical prediction, and I care as much about the rigor behind them as the results they produce. Over the past few years I've gone from real-time computer vision systems on embedded hardware to loss forecasting pipelines processing millions of loan accounts on cloud. The thread across all of it: finding signal in messy, high-stakes data and making it useful.
 
-## My Journey So Far
+## What I've Built
 
-- Currently pursuing a Master's in Information Management at the University of Illinois, Urbana-Champaign, with a focus on data science and information systems.
-- Previously worked as a Junior ML Engineer at Augray, where I optimized machine learning models for real-time applications, improved large-scale data preprocessing, and enhanced system scalability and response efficiency in Conversational AI projects.
+### Early Fraud Signal Detection for Bank Account Openings
+[`rahulb0206/Early-Fraud-Signal-Detection-for-Bank-Account-Openings`](https://github.com/rahulb0206/Early-Fraud-Signal-Detection-for-Bank-Account-Openings)
 
-## Technical Arsenal
+XGBoost classifier trained on 205K bank account applications to flag fraudulent openings before they escalate. Built end-to-end: feature engineering, class imbalance handling, threshold optimization, and SHAP-based explainability.
 
-I’ve honed my skills across various technologies:
-- Programming: C, C++, Python (Frameworks: NumPy, Pandas, Keras, TensorFlow, PyTorch, Scikit-learn, OpenCV, Pillow, Matplotlib, Seaborn), NLP, Machine learning.
-- Tools: Git, GitHub, Docker, MS Office.
-- Cloud Services: Amazon Web Services (AWS Certified Cloud Practitioner).
-- Database Technologies: SQL (MySQL), MongoDB.
-- Data Visualization: Tableau, Power BI.
+- **78% recall** on held-out fraud cases
+- **ROC-AUC 0.891**
+- **$990K estimated net benefit** on the held-out set
+- SHAP waterfall and summary plots for decision transparency
+
+### VOCA — Voice Disorder Detection
+[`rahulb0206/VOCA_Voice-disorder-detection`](https://github.com/rahulb0206/VOCA_Voice-disorder-detection)
+
+Clinical ML system developed at Carle Illinois College of Medicine to predict voice disorders from acoustic features. Won multiple **Cozad Innovation Awards**. Built with Python, scikit-learn, and signal processing pipelines on real patient data.
+
+### Loan Prediction System (TensorFlow Lite)
+[`rahulb0206/Loan-Prediction-System-using-TensorFlow-Lite`](https://github.com/rahulb0206/Loan-Prediction-System-using-TensorFlow-Lite)
+
+End-to-end loan approval classifier deployed via TFLite and Flutter, from model training to a working mobile interface. Focused on making ML accessible outside the server environment.
+
+
+### Food Price Prediction — Time Series Analysis
+[`rahulb0206/Food-Price-Prediction-using-Time-Series-Analysis`](https://github.com/rahulb0206/Food-Price-Prediction-using-Time-Series-Analysis)
+
+Comparative study of XGBoost, ARIMA, and LSTM for commodity price forecasting. Built during UIUC coursework; covers feature lag construction, stationarity testing, and forecast evaluation.
+
 
 ## Professional Experience
 
-I’ve gained hands-on experience through diverse roles:
-- Data Preprocessing & Feature Engineering: Conducted extensive data preprocessing, cleaning, and feature engineering on datasets up to 10TB, improving data quality by 20% and enhancing model performance.
-- Machine Learning Model Optimization: Implemented and optimized MIDAS U-Net and MobileNet-v2 models, leading to significant improvements in application performance and 3D visualization using the Open 3D framework.
-- Real-Time Fault Detection: Developed real-time fault detection systems for a sports ball manufacturing firm using MobileNet-v2, achieving 90% accuracy and reducing detection time by 50% with intuitive GUI interfaces on Nvidia Jetson Boards.
-- Conversational AI: Collaborated with the Conversational AI team on RASA-based solutions, enhancing response efficiency by 25% and improving scalability by 40%.
+**Data Scientist | Synchrony Financial**
+PD/EAD loss forecasting, cohort-based snapshot methodology, macroeconomic factor integration, and bureau cluster validation. Built and maintained PySpark/SQL pipelines on AWS EMR processing millions of accounts.
 
-## Projects & Contributions
-My GitHub is a collection of my passion projects and professional work, ranging from small-scale initiatives to cutting-edge data science projects. Each project reflects my dedication to quality and innovation. Explore my repositories to see what I’ve been working on!
+**Junior ML Engineer | Augray LLC**
+Computer vision for industrial quality control: MobileNet-v2 deployed on Nvidia Jetson Boards for real-time fault detection (90% accuracy, 50% reduction in detection time). Also worked on RASA-based Conversational AI, MIDAS U-Net optimization, and large-scale data preprocessing up to 10TB.
 
-## Life Beyond Code
-Outside the tech world, I enjoy sports like cricket, binge-watching documentaries and series, diving into immersive video games, and exploring the latest tech innovations. I value connecting with people from diverse backgrounds.
+**Clinical ML Research | Carle Illinois College of Medicine — VOCA Health** 
+Voice disorder prediction from acoustic features. Multiple Cozad Award recipient.
 
-## Let’s Connect!
-I’m always eager to connect with fellow data enthusiasts, researchers, and professionals. Whether you have a question, a project idea, or simply want to chat about data and technology, feel free to reach out. Let’s learn and grow together!
+---
+
+## Technical Stack
+
+**Languages:** Python, SQL, R, C++
+**ML/DS:** XGBoost, Scikit-learn, TensorFlow, PyTorch, SHAP, LightGBM, ARIMA, LSTM
+**Data Engineering:** PySpark, AWS, Pandas, NumPy
+**Visualization:** Matplotlib, Seaborn, Tableau, Power BI
+**Tools:** Git, Docker, Jupyter, VS Code, Cursor
+**Databases:** MySQL, MongoDB
+**Cloud:** AWS (Certified Cloud Practitioner)
 
 
-<!--
-**rahulb0206/rahulb0206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Outside the Work
 
-Here are some ideas to get you started:
+Cricket, swimming, traveling, and the occasional deep dive into a documentary rabbit hole. I've found that the best data intuition often comes from paying attention to things that have nothing to do with data.
 
-- I’m currently working on ...
-- I’m currently learning ...
-- I’m looking to collaborate on ...
-- I’m looking for help with ...
-- Ask me about ...
-- How to reach me: ...
-- Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/rahulbalasubramani/) · [Kaggle](https://www.kaggle.com/rahul26001)
+
+If you're working on something interesting in Data or Applied ML, or just want to talk through a problem, I am always up for it.
