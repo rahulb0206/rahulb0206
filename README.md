@@ -48,13 +48,7 @@ Voice disorder prediction from acoustic features. Multiple Cozad Award recipient
 
 ## Technical Stack
 
-**Languages:** Python, SQL, R, C++
-**ML/DS:** XGBoost, Scikit-learn, TensorFlow, PyTorch, SHAP, LightGBM, ARIMA, LSTM
-**Data Engineering:** PySpark, AWS, Pandas, NumPy
-**Visualization:** Matplotlib, Seaborn, Tableau, Power BI
-**Tools:** Git, Docker, Jupyter, VS Code, Cursor
-**Databases:** MySQL, MongoDB
-**Cloud:** AWS (Certified Cloud Practitioner)
+**Languages:** Python, SQL, R, C++ &nbsp;|&nbsp; **ML/DS:** XGBoost, Scikit-learn, TensorFlow, PyTorch, SHAP, LightGBM, ARIMA, LSTM &nbsp;|&nbsp; **Data Engineering:** PySpark, AWS, Pandas, NumPy &nbsp;|&nbsp; **Visualization:** Matplotlib, Seaborn, Tableau, Power BI &nbsp;|&nbsp; **Tools:** Git, Docker, Jupyter, VS Code, Cursor &nbsp;|&nbsp; **Databases:** MySQL, MongoDB &nbsp;|&nbsp; **Cloud:** AWS (Certified Cloud Practitioner)
 
 
 ## Outside the Work
