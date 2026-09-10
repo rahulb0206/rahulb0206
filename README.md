@@ -16,7 +16,7 @@ XGBoost classifier trained on 205K bank account applications to flag fraudulent 
 - **$990K estimated net benefit** on the held-out set
 - SHAP waterfall and summary plots for decision transparency
 
-### VOCA — Voice Disorder Detection
+### VOCA : Voice Disorder Detection
 [`rahulb0206/VOCA_Voice-disorder-detection`](https://github.com/rahulb0206/VOCA_Voice-disorder-detection)
 
 Clinical ML system developed at Carle Illinois College of Medicine to predict voice disorders from acoustic features. Won multiple **Cozad Innovation Awards**. Built with Python, scikit-learn, and signal processing pipelines on real patient data.
